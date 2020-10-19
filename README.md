@@ -24,4 +24,6 @@ The following are detailed instructions for installing the code so you can code 
 4) In the same command window (or the Command property in VS Code), type `npm start`.
 
    The application should then compile and launch in your default browser.
+5)  Run the app, type `ng serve` and get familiarized with the code 
+ 
 
